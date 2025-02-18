@@ -1,0 +1,10 @@
+
+---
+
+## requirements.txt
+
+```text
+openai==0.27.0        # Example OpenAI Python client
+pytest==7.4.0         # For running Python tests
+flake8==6.0.0         # For optional lint checks
+requests==2.31.0      # If needed for other web calls
